@@ -12,7 +12,6 @@ This repository contains templates that students must use to submit their assign
 Please make sure you use the correct format before submission.
 
 [🇬🇧 English](README.en.md)
-
 ---
 
 
