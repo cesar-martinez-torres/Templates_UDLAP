@@ -4,7 +4,7 @@
 Este repositorio contiene plantillas que los estudiantes deben usar para entregar sus tareas, reportes y proyectos.  
 Por favor asegúrate de usar el formato correcto antes de entregar.
  
-[🇪🇸 Español](README.es.md)  
+[🇲🇽 Español](README.es.md)  
 ---
 
 ## 📖 About this repository
